@@ -1,2 +1,2 @@
 # hred-tf
-Hierarchical Recurrent Encoder-Decoder in TensorFlow
+Hierarchical Recurrent Encoder-Decoder in TensorFlow.
